@@ -1,6 +1,6 @@
 <div align="center">
 
-![Ruby - A Programmer's Best Friend](banner.png)
+![Ruby - A Programmer's Best Friend](banner.jpg)
 
 Ruby is a dynamic, open source programming language with a focus on simplicity and productivity.
 
