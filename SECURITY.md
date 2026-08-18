@@ -37,7 +37,7 @@ library's issue tracker.
 
 - **The website.** Report problems in <https://github.com/ruby/www.ruby-lang.org>.
 - **Gems that are not part of Ruby.** Follow the [RubyGems.org security
-  instructions](https://guides.rubygems.org/security/).
+  instructions](https://guides.rubygems.org/security/#reporting-security-vulnerabilities).
 
 ## More information
 
