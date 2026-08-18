@@ -36,6 +36,7 @@ library's issue tracker.
 ## Not covered by this policy
 
 - **The website.** Report problems in <https://github.com/ruby/www.ruby-lang.org>.
+- **RubyGems and Bundler.** Report problems to <https://hackerone.com/rubygems>.
 - **Gems that are not part of Ruby.** Follow the [RubyGems.org security
   instructions](https://guides.rubygems.org/security/#reporting-security-vulnerabilities).
 
